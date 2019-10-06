@@ -1,7 +1,7 @@
-## Welcome to iFixerpro.Github.io
+# Welcome to iFixerpro.Github.io
 
 
-# This is an open-source jailbreaking tool for many iOS devices
+## This is an open-source jailbreaking tool for many iOS devices
 
 
 **Read [disclaimer](#disclaimer) before using this software.*
